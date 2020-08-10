@@ -2,7 +2,7 @@
 /**
  * File name: StatusChangedOrder.php
  * Last modified: 2020.04.29 at 10:35:47
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

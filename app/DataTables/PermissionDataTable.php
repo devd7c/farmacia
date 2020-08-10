@@ -2,7 +2,7 @@
 /**
  * File name: PermissionDataTable.php
  * Last modified: 2020.04.29 at 07:24:56
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

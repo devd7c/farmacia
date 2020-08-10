@@ -2,7 +2,7 @@
 /**
  * File name: MarketsPayout.php
  * Last modified: 2020.04.30 at 06:29:44
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

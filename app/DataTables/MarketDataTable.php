@@ -2,7 +2,7 @@
 /**
  * File name: MarketDataTable.php
  * Last modified: 2020.04.30 at 07:09:04
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

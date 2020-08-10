@@ -2,7 +2,7 @@
 /**
  * File name: AppServiceProvider.php
  * Last modified: 2020.06.10 at 18:56:11
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  */
 

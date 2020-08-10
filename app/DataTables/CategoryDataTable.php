@@ -2,7 +2,7 @@
 /**
  * File name: CategoryDataTable.php
  * Last modified: 2020.04.28 at 22:51:46
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

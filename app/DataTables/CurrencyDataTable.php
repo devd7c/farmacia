@@ -4,7 +4,7 @@
 /**
  * File name: CurrencyDataTable.php
  * Last modified: 2020.06.11 at 16:03:24
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  */
 

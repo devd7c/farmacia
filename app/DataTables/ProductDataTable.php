@@ -2,7 +2,7 @@
 /**
  * File name: ProductDataTable.php
  * Last modified: 2020.04.30 at 07:33:07
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

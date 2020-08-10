@@ -2,7 +2,7 @@
 /**
  * File name: installer.php
  * Last modified: 2020.05.27 at 18:36:54
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

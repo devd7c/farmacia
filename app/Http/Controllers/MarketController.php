@@ -2,7 +2,7 @@
 /**
  * File name: MarketController.php
  * Last modified: 2020.04.29 at 18:37:10
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

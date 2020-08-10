@@ -2,7 +2,7 @@
 /**
  * File name: Product.php
  * Last modified: 2020.05.28 at 19:50:43
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

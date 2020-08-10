@@ -2,7 +2,7 @@
 /**
  * File name: PayPalController.php
  * Last modified: 2020.06.11 at 16:10:52
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  */
 

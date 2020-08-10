@@ -2,7 +2,7 @@
 /**
  * File name: UpdateMarketRequest.php
  * Last modified: 2020.04.29 at 18:01:28
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

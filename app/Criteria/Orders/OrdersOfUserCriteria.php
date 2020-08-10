@@ -2,7 +2,7 @@
 /**
  * File name: OrdersOfUserCriteria.php
  * Last modified: 2020.04.30 at 08:21:08
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

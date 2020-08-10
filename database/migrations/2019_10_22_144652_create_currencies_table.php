@@ -2,7 +2,7 @@
 /**
  * File name: 2019_10_22_144652_create_currencies_table.php
  * Last modified: 2020.04.30 at 06:25:41
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

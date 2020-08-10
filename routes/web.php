@@ -2,7 +2,7 @@
 /**
  * File name: web.php
  * Last modified: 2020.06.07 at 07:02:57
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */
@@ -11,11 +11,6 @@
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
 */
 
 Route::get('login/{service}', 'Auth\LoginController@redirectToProvider');

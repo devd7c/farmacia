@@ -2,7 +2,7 @@
 /**
  * File name: CreatePermissionRequest.php
  * Last modified: 2020.05.26 at 15:19:04
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

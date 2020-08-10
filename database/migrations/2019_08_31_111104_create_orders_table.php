@@ -2,7 +2,7 @@
 /**
  * File name: 2019_08_31_111104_create_orders_table.php
  * Last modified: 2020.04.30 at 08:21:08
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

@@ -2,7 +2,7 @@
 /**
  * File name: UserController.php
  * Last modified: 2020.05.04 at 12:15:13
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

@@ -4,7 +4,7 @@
 /**
  * File name: RazorPayController.php
  * Last modified: 2020.06.13 at 12:38:51
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

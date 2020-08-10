@@ -2,7 +2,7 @@
 /**
  * File name: 2019_08_29_213838_create_options_table.php
  * Last modified: 2020.04.28 at 22:23:04
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

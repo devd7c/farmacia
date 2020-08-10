@@ -1,7 +1,7 @@
 /*
  * File name: scripts.js
  * Last modified: 2020.04.29 at 22:38:56
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

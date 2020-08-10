@@ -4,7 +4,7 @@
 /**
  * File name: services.php
  * Last modified: 2020.06.11 at 16:03:23
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  */
 

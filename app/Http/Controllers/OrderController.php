@@ -2,7 +2,7 @@
 /**
  * File name: OrderController.php
  * Last modified: 2020.05.05 at 16:55:08
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

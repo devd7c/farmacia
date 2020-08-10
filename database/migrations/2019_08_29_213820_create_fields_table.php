@@ -2,7 +2,7 @@
 /**
  * File name: 2019_08_29_213820_create_fields_table.php
  * Last modified: 2020.04.28 at 22:05:21
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */

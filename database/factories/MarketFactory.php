@@ -2,7 +2,7 @@
 /**
  * File name: MarketFactory.php
  * Last modified: 2020.04.20 at 18:08:03
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Author: D7C
  * Copyright (c) 2020
  *
  */
